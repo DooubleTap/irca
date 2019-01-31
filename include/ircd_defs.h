@@ -91,10 +91,10 @@
 #define SOCKIPLEN 45
 /** Maximum length for channel topics and kill comments.
  */
-#define TOPICLEN        250
+#define TOPICLEN        320
 /** Maximum length for away messages.
  */
-#define AWAYLEN		250
+#define AWAYLEN		320
 /** Exactly long enough to hold one protocol message (RFC 1459)
  * including the line termination (\\r\\n).  DO NOT CHANGE THIS!!!!
  */
