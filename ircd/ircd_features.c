@@ -518,7 +518,7 @@ static struct FeatureDesc {
   F_S(PROVIDER, FEAT_NULL, 0, 0),
   F_B(KILL_IPMISMATCH, FEAT_OPER, 0, 0),
   F_B(IDLE_FROM_MSG, 0, 1, 0),
-  F_B(HUB, 0, 1, feature_notify_hub),
+  F_B(HUB, 0, 0, feature_notify_hub),
   F_B(WALLOPS_OPER_ONLY, 0, 0, 0),
   F_B(NODNS, 0, 0, 0),
   F_N(RANDOM_SEED, FEAT_NODISP, random_seed_set, 0, 0, 0, 0, 0, 0),
