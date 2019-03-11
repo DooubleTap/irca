@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/zsh
 # gitysnc.sh, Copyright (c) 2015 Rubin
 # based on linesync.sh (c) 2002 Arjen Wolfs
 #
